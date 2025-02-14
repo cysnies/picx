@@ -1,7 +1,3 @@
-<a href="https://picx.xpoet.cn" >
-<img width="100" align="right" alt="PicX" src="https://picx-docs.xpoet.cn/images/logo.png">
-</a>
-
 # PicX
 
 [![Release](https://img.shields.io/github/release/XPoet/picx?style=flat&logo=github)](https://github.com/XPoet/picx/releases)
